@@ -1,0 +1,13 @@
+#ribbonDiv{
+    background-color: #8c8c8c;
+    height: 23px;
+    margin-top: 28px;
+    overflow-y: hidden;
+}
+.catDiv{
+    height: 17px;
+    float: left;
+    padding: 3px 5px;
+    margin: 0px;
+    border: solid #ffffcc 1px;
+}

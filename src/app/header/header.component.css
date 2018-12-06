@@ -1,0 +1,27 @@
+#header{
+    background-color: #4db8ff;
+    height: 57px;   
+}
+#menuImg{
+    width: 41px;
+    margin-top: 6px;
+    margin-left: 11px;
+}
+#logoImg{
+    width: 212px;
+    margin-top: 5px;
+    margin-left: 29px;
+}
+#uploadBtnImg{
+    width: 27px;
+    margin-top: 10px;
+    margin-left: 18px;
+}
+#historyBtnImg{
+    width: 55px;
+    margin-top: 6px;
+    margin-left: 10px;    
+}
+.left{
+    float:left;
+}
